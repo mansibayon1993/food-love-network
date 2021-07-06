@@ -24,6 +24,14 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
-
+}
+.about-me{
+    background-image: url(images/7.png);
+    width: 100%;
+    text-align:center;
     
+    
+}
+.contact-me{
+
 }
