@@ -28,10 +28,14 @@ section{
 .about-me{
     background-image: url(images/7.png);
     width: 100%;
-    text-align:center;
-    
-    
+    text-align: center;
 }
-.contact-me{
+    
+    
 
+.My-Recipies{
+    text-align: center;
+} 
+#footer-background-color{
+    background-color: blueviolet;
 }
